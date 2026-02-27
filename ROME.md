@@ -47,13 +47,21 @@ feel free to contact me!
 - [Contrario](https://maps.app.goo.gl/w3ciyMiMezXzDkWcA)
 - [Gallo Brillo](https://maps.app.goo.gl/XW7n53NLh53jcQZdA)
 - [Esploratori](https://maps.app.goo.gl/8ZrGvh6XRzs3vDNw5)
+- [Fàbrica](https://maps.app.goo.gl/WAYnWtz6xQLZZLuQ8)
+- [Fase](https://maps.app.goo.gl/rEHmJNadWWByXx3bA)
 - [Velavevodetto](https://maps.app.goo.gl/a1KVpxUJs94odgtx8)
 - [Osteria Conviviale](https://maps.app.goo.gl/qhjhPF33YXbcRo4DA)
+- [The Appuntamento](https://maps.app.goo.gl/ym6TYnzyibUuxkNZ7)
+- [Alla Rampa](https://maps.app.goo.gl/nVCBQMyRTLCRaFdr8)
+- [Antico Falcone](https://maps.app.goo.gl/PZir3tazrTbHdAMt8)
+- [Cacio e Pepe](https://maps.app.goo.gl/WDPDWAwTErARuo5a6)
 - [Officine Beat](https://maps.app.goo.gl/iZWKV8aV6yjoG5Pd8)
 - [Pastificio San Lorenzo](https://maps.app.goo.gl/kqAb45MS1hiCnkJ7A)
 - [Nena](https://maps.app.goo.gl/qkUH9cotiGWhGeYi9)
 - [Farina](https://maps.app.goo.gl/NcYy2hivvVkte3FH7)
 - [Romane](https://maps.app.goo.gl/dcV3gr19uZmBveSG6)
+- [All'Oro](https://maps.app.goo.gl/QRw5pwGQHS27WZhm6)
+- [Rokko](https://maps.app.goo.gl/X8ZqamXuqV4GoRyk6)
 
 ### Snacks
 
@@ -67,6 +75,9 @@ feel free to contact me!
 
 - [Enofficina](https://maps.app.goo.gl/cruN2xPF3Z7TtUjQ7)
 - [Covino](https://maps.app.goo.gl/5q1PbE1Yc6HE76U27)
+- [Magazzino Scipioni](https://maps.app.goo.gl/q8PHDtWqxBDgDENR8)
+- [Sorpasso](https://maps.app.goo.gl/dvwju7XBbuXerSwm6)
+- [Passaguai](https://maps.app.goo.gl/Rd8y2EPEBaSbLGDfA)
 
 ### Cocktails
 
@@ -76,6 +87,6 @@ feel free to contact me!
 ### Beers
 
 - [Altroquando](https://maps.app.goo.gl/ce7VSFPBC9KueRUs8)
-- [Beere](https://maps.app.goo.gl/mS4c2PzbPzVUAbtNA)
 - [Be. Re.](https://maps.app.goo.gl/2vxWthqbgFNhvzVY8)
+- [Treppio](https://maps.app.goo.gl/EaEzzJCbPeXF6gXk7)
 - [Fischio](https://maps.app.goo.gl/iZqNGBVcxEhAXgLj8)
